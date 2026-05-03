@@ -5,4 +5,4 @@ The project consist on writing the HTML of a recipe website.
 
 CSS is added later through the curriculum.
 
-Thanks to (https://www.theodinproject.com)[the Odin Project]
+Thanks to the Odin Project (https://www.theodinproject.com)
